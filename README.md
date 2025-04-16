@@ -2,7 +2,7 @@
 
 In this project, titled "Energy Price Prediction using Machine Learning," I have undertaken an in-depth analysis of various machine learning techniques for accurate and efficient energy price forecasting. The primary objective is to develop robust predictive models and compare their performance to identify the most effective approach. Specifically, I have implemented and evaluated three regression models: Linear Regressor, Random Forest Regressor, and XGBoost Regressor.
 
-![image](https://github.com/Abhaykumar04/Energy-Price-Prediction-using-Machine-Learning/assets/112232080/32315553-e8a9-4ae4-b681-af016fc3e181)
+![image](/Energy-Price-Prediction-using-Machine-Learning/assets/112232080/32315553-e8a9-4ae4-b681-af016fc3e181)
 
 ### Linear Regressor
 
